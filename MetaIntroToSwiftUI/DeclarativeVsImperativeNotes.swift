@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+// MARK: - Core Concepts
+
+// Differences between declarative and imperative syntaxes
+
+// How declarative syntax is modern approach to programming
+
+

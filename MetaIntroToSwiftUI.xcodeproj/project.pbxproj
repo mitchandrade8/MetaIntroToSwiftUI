@@ -15,6 +15,7 @@
 		748868592AA139C800F45F77 /* Notes2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868582AA139C800F45F77 /* Notes2.swift */; };
 		7488685B2AA13A7D00F45F77 /* NotesAppStructureAppProtocolSwiftUIArchitecture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7488685A2AA13A7D00F45F77 /* NotesAppStructureAppProtocolSwiftUIArchitecture.swift */; };
 		7488685D2AA13BEF00F45F77 /* DeclarativeVsImperativeNotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7488685C2AA13BEF00F45F77 /* DeclarativeVsImperativeNotes.swift */; };
+		7488685F2AA1409000F45F77 /* ScenesAndViewNotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7488685E2AA1409000F45F77 /* ScenesAndViewNotes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		748868582AA139C800F45F77 /* Notes2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notes2.swift; sourceTree = "<group>"; };
 		7488685A2AA13A7D00F45F77 /* NotesAppStructureAppProtocolSwiftUIArchitecture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesAppStructureAppProtocolSwiftUIArchitecture.swift; sourceTree = "<group>"; };
 		7488685C2AA13BEF00F45F77 /* DeclarativeVsImperativeNotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeclarativeVsImperativeNotes.swift; sourceTree = "<group>"; };
+		7488685E2AA1409000F45F77 /* ScenesAndViewNotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScenesAndViewNotes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				748868582AA139C800F45F77 /* Notes2.swift */,
 				7488685A2AA13A7D00F45F77 /* NotesAppStructureAppProtocolSwiftUIArchitecture.swift */,
 				7488685C2AA13BEF00F45F77 /* DeclarativeVsImperativeNotes.swift */,
+				7488685E2AA1409000F45F77 /* ScenesAndViewNotes.swift */,
 				7488684C2AA11A0600F45F77 /* Assets.xcassets */,
 				7488684E2AA11A0600F45F77 /* Preview Content */,
 			);
@@ -154,6 +157,7 @@
 				7488684B2AA11A0400F45F77 /* ContentView.swift in Sources */,
 				7488685D2AA13BEF00F45F77 /* DeclarativeVsImperativeNotes.swift in Sources */,
 				748868592AA139C800F45F77 /* Notes2.swift in Sources */,
+				7488685F2AA1409000F45F77 /* ScenesAndViewNotes.swift in Sources */,
 				748868492AA11A0400F45F77 /* MetaIntroToSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

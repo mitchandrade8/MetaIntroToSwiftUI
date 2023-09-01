@@ -29,3 +29,6 @@ import Foundation
 
 // View Properties
 
+///    - Views are almost anything that is shown onscreen in SwiftUI, such as text, text fields, images, and shapes
+///
+///    

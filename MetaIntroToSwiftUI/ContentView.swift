@@ -13,7 +13,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            Text("Little Lemon")
+            MetaExampleView()
             Stepper {
                 Text("Reservation for: \(personCount)")
             } onIncrement: {

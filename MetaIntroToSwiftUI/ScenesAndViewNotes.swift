@@ -19,10 +19,13 @@ import Foundation
 
 
 
-/// A Scene
+// A Scene
 ///     - A container for other elements, such as views
 ///
 ///     + With declare Syntax the scene will adjust whether it is display on a iPhone or iPad
 
 
 ///
+
+// View Properties
+
